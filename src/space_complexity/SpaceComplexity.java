@@ -1,4 +1,3 @@
 package space_complexity;
 
-public class SpaceComplexity {
-}
+public class SpaceComplexity {}
